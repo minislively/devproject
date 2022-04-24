@@ -1,0 +1,12 @@
+.sitecontainer {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 600px;
+}
+
+.sitecontainer .exchangesite{
+  color: #939393;
+  margin-bottom: 80px;
+}
